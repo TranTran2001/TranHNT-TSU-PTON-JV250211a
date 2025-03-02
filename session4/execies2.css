@@ -1,0 +1,22 @@
+
+h1 {
+    background-color: #0a6d6d;
+    color:aliceblue;
+    padding: 30px;
+    margin: 0px;
+    font-size: 40px;
+    text-align: center;
+    
+}
+p {
+    color: #32a4a4;
+    font-size: 20px;
+    background-color: rgb(200, 198, 198);
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+}
+span {
+    margin-right: 50px;
+    
+}

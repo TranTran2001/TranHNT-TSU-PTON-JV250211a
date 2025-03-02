@@ -1,0 +1,34 @@
+h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+label {
+    margin-left: 20px;
+    spacing: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+input {
+    margin-left: 20px;
+    width:310px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-inline-end: 310px;
+}
+textarea {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-inline-end: 310px;
+    width: 310px;
+    height: 100px;
+}
+button {
+    margin-left: 20px;
+    width: 320px;
+    height: 30px;
+    background-color: #0a6d6d;
+    color: aliceblue;
+    border: none;
+    margin-inline-end: 310px;
+}

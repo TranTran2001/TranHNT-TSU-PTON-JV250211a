@@ -1,0 +1,15 @@
+footer {
+    border: 2px solid rgb(0, 106, 255);
+    border-radius: 20px;
+    margin-inline-end: 45%;
+}
+footer > h3 {
+    border 2px;
+    color:rgb(0, 106, 255);
+    text-decoration: underline;
+    text-align: center;
+}
+footer > ul {
+    line-height: 25px;
+    list-style-type: circle;
+}
