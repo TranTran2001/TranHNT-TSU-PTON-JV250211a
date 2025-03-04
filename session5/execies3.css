@@ -1,0 +1,23 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+button {
+    border: 0px;
+    text-decoration: none;
+    color: black;
+    display: inline;
+}
+button:hover {
+    color: rgb(151, 186, 24);
+}
+button:active {
+    color: rgb(78, 24, 186);
+}
+button:focus {
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px;
+}

@@ -1,0 +1,22 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+    display: inline;
+    padding: 10px;
+    border: 2px solid black;
+}
+p {
+    border-top: 4px solid red;
+}
+p {
+    border-bottom: 6px double green;
+}
+p {
+    border-left: 8px groove rgb(208, 255, 0);
+}
+p {
+    border-right: 10px dotted rgba(0, 0, 0, 0.5);
+}
