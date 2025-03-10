@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.title {
+    display:flex;
+    background-color: limegreen;
+    padding: 10px;
+    margin: 10 0px;
+    color:aliceblue;
+}
+.title h1 {
+    font-size: 20px;
+    padding-left: 5%;
+}
+.title ul {
+    display:flex;
+    list-style-type: none;
+    margin-left: 65%;
+}
+.title li a {
+    text-decoration: none;
+    color:aliceblue;
+    padding: 0 10px;
+}
+.title li a:hover {
+    color: black;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+.welcome {
+    display:block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30vh;
+}
+.welcome h1 {
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.welcome p {
+    font-size: 20px;
+    color:rgb(96, 97, 98);
+    margin-bottom: 30px;
+}
+.welcome button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: limegreen;
+    color:aliceblue;
+    border: none;
+    border-radius: 5px;
+}
+.welcome button:hover {
+    background-color: rgb(61, 191, 87);
+    color: black;
+}
+nav ul {
+    display: flex;
+    justify-content:space-around;
+    list-style-type: none;
+    margin-top: 10%;
+}
+nav li {
+    padding: 10px 10%;
+    background-color: rgb(205, 209, 205);
+    border-radius: 5px;
+}
+nav li:hover {
+    background-color: rgb(127, 132, 128);
+}
+footer {
+    display:block;
+    background-color: rgb(52, 53, 52);
+    color:aliceblue;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

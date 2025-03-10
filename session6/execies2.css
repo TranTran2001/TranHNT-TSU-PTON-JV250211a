@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #396ee0;
+    border-radius: 10px;
+    width: 250px;
+}
+h2 {
+    color: #396ee0;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+form label {
+    line-height: 30px;
+}
+form input {
+    width: 100%;
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+button {
+    width: 100%;
+    padding: 5px;
+    background-color: #396ee0;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 15px 0;
+}
+button:hover {
+    background-color: #334979;
+}
